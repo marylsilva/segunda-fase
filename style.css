@@ -1,0 +1,56 @@
+ /* IMPORTANDO FONTES */
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700|Roboto+Slab');
+*{
+	width: 100%;
+	height: 100%;
+}
+/*main*/
+
+.main--inicio--div{
+	width: 100%;
+	height: 80vw;
+	font-family: Roboto;
+}
+.main--inicio--div--h3{
+	font-size: 50px;
+	height: 50px;
+
+}
+
+.main--inicio--div--p{
+	width: 100%;
+	height: 70px;
+}
+.main--inicio--div--h4{
+	height: 30px;
+}
+.main--inicio--div--img{
+	width: 90%;
+	height: 600px;
+}
+.main--final--div{
+	width: 100%;
+	height: 80vw;
+	font-family: Roboto;
+}
+.main--final--div--p{
+	width: 100%;
+	height: 70px;
+}
+.main--final--img{
+	width: 90%;
+	height: 600px;
+}
+.main--final--h3{
+	background: #ccc;
+	width: 250px;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+
+
+
